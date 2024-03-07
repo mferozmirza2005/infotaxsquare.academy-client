@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "noImplicitAny": false,
+      "module": "NodeNext",
+      "noEmitOnError": true,
+      "removeComments": false,
+      "sourceMap": true,
+      "target": "es5",
+      "jsx": "react"
+    },
+    "exclude": [
+      "node_modules"
+    ],
+    "files": [
+      "src/index.tsx"
+    ]
+  }
